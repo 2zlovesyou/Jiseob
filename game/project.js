@@ -31,7 +31,7 @@ window.__require = function e(t, n, o) {
         cc._RF.push(t, "68076EFnW1JeZUzdnbOOKNr", "AddScore");
         var o = this && this.__extends || function() {
             var e = function(t, n) {
-                return (e = Object.setPrototypeOf || {
+                return (e = Object.setPrototypeOf || { 
                     __proto__: []
                 }instanceof Array && function(e, t) {
                     e.__proto__ = t
